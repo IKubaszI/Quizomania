@@ -1,0 +1,48 @@
+name: fluuterek
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  get: ^4.6.5
+  google_fonts: ^4.0.0
+  cached_network_image: ^3.2.1
+  # Firebase packages
+  firebase_core: ^3.9.0
+  flutter_zoom_drawer: ^2.1.2
+  shimmer: ^2.0.0
+  cloud_firestore: ^5.6.0
+  firebase_storage: ^12.3.7
+  firebase_auth: ^5.3.4
+  url_launcher: ^6.0.18
+  sensors_plus: ^6.1.1
+  google_sign_in: ^5.4.0
+  flutter_svg: ^1.0.0
+  easy_separator: ^1.0.1
+  vibration: ^1.8.3
+  shared_preferences: ^2.0.15
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/DB/papers/
+
+  fonts:
+    - family: AppIcons
+      fonts:
+        - asset: assets/icons/AppIcons.ttf

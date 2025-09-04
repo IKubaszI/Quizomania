@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "290935986638",
+    "project_id": "studtappka",
+    "storage_bucket": "studtappka.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290935986638:android:7bda67da00a8db066db39f",
+        "android_client_info": {
+          "package_name": "com.example.fluuterek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290935986638-vl92aes56hsl6rm6hkke53rrj9remdu6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fluuterek",
+            "certificate_hash": "e5f9aa83edc913241f142721afdb2c614e6b7665"
+          }
+        },
+        {
+          "client_id": "290935986638-ivn070cmai3tdufdheogdfhkn031l5ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8WZLwo9Dhluhz2rD4euF5Ux8NjyoqoD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290935986638-ivn070cmai3tdufdheogdfhkn031l5ia.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "290935986638-bkcm3v6gffpt3vg97ngrite5sbht51o3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fluuterek"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290935986638:android:f86cd26e982058cc6db39f",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290935986638-ivn070cmai3tdufdheogdfhkn031l5ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8WZLwo9Dhluhz2rD4euF5Ux8NjyoqoD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290935986638-ivn070cmai3tdufdheogdfhkn031l5ia.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "290935986638-bkcm3v6gffpt3vg97ngrite5sbht51o3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fluuterek"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
